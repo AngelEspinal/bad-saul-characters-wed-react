@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bad-saul-characters-wed-react/static/css/main.4cfccd42.css",
+    "main.js": "/bad-saul-characters-wed-react/static/js/main.170332d2.js",
+    "index.html": "/bad-saul-characters-wed-react/index.html",
+    "main.4cfccd42.css.map": "/bad-saul-characters-wed-react/static/css/main.4cfccd42.css.map",
+    "main.170332d2.js.map": "/bad-saul-characters-wed-react/static/js/main.170332d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cfccd42.css",
+    "static/js/main.170332d2.js"
+  ]
+}
