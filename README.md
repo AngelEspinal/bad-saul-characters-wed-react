@@ -7,7 +7,6 @@
   ### visat principal
   ![Descripción de la imagen](/preview.png)
   ### ver descripcion de personajes
- ![Descripción de la imagen](/descripcion personaje.png)
   ## Tecnologias
      * java script
      * Css
