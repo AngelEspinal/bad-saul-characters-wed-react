@@ -4,7 +4,10 @@
   para poder interactuar de manera directa con el sistema wed
   
   ## pre visualizacion del sistema wed
+  ### visat principal
   ![Descripción de la imagen](/preview.png)
+  ### ver descripcion de personajes
+  [Descripción de la imagen](/preview.png)
   ## Tecnologias
      * java script
      * Css
